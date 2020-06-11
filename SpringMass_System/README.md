@@ -1,4 +1,4 @@
-# Model and Script - Spring Mass System
+# Spring Mass System -  Smulink Model and m Scripts  
 
 ### Time Domain Model
 > * This model shows the spring mass over time. 
