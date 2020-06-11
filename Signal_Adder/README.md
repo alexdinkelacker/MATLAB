@@ -6,4 +6,4 @@
  
  >You can see that there is a block "To Workspace" that will allow the user to use raw signal data over time in the MATLAB workspace. 
  
- > ![Screenshot](Screenshot.png)
+  ![Screenshot](Screenshot.png)
