@@ -5,3 +5,5 @@
  >Then this signal goes through three different gains and gets outputted on onto the Outpus Scope. 
  
  >You can see that there is a block "To Workspace" that will allow the user to use raw signal data over time in the MATLAB workspace. 
+ 
+ > ![Screenshot](Screenshot.png)
