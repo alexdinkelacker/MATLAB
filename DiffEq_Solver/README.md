@@ -1,3 +1,4 @@
 # Simulink with m script 
 
-> * Differential Equation Solver
+> * This shows Simulinks capabilty to solve complex equations.
+> * Here is an application to solve a differential equations.
