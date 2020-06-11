@@ -6,7 +6,8 @@
 > * As you do this you can see overdamped, underdamped, and critical dampening with the correct respective dampening coefficents. 
 > * See the circuit below
 ![Screenshot](Screenshot.png)
-<br>
+
+
 ### S Domain Model 
 > * This transfer into the S domain would be equivalent to transfering to the frequency domain in electrical circuits. 
 > * See the circuit below
