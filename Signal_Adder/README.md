@@ -1,4 +1,4 @@
-# Simulink - addition of three signals. 
+# Simulink  
 
  >There are three signals (varying frequencies and amplitudes) added together to form one signal. 
  
