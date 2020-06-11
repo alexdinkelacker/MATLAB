@@ -1,4 +1,4 @@
-# PID Controller with Simulink
+# PID Controller with Spring Mass System
 
 ### PID Controlled Spring Mass System
 > * One way to tune a spring mass system for a desired output is using a PID controller
