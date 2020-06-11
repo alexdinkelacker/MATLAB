@@ -1,5 +1,5 @@
 # Simulink 
-### View the simulink file (.slx) above to run the model 
+### View the simulink (.slx) file above to run the model 
 
  >There are three signals (varying frequencies and amplitudes) added together to form one signal. 
  
