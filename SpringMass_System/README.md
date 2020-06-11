@@ -7,3 +7,5 @@
 ![Screenshot](Screenshot.png)
 
 ### Second Model
+> * See the circuit below
+![Screenshot2](Screenshot2.png)
