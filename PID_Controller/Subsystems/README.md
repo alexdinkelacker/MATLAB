@@ -1,6 +1,6 @@
 # Here is just a look at what is inside the subsystems
 > * PID Controller 
-![Screenshot](PIDController.PNG)
+![Screenshot](PIDController.png)
 
 > * Spring Mass System
-![Screenshot](SpringMassSystem.PNG)
+![Screenshot](SpringMassSystem.png)
