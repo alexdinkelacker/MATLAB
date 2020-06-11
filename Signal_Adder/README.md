@@ -1,4 +1,5 @@
-# Simulink  
+# Simulink 
+### View the .xls file above to run the model 
 
  >There are three signals (varying frequencies and amplitudes) added together to form one signal. 
  
