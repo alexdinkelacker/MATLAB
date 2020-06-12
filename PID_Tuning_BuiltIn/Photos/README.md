@@ -1,1 +1,1 @@
-# Here are some screenshots to see what the environment looks like. 
+# Screenshots to show what the environment looks like 
