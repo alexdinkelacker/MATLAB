@@ -4,7 +4,7 @@
 > * You can view all the screenshots below in the Screenshots folder. 
 
 
-> * ### Base model for the design in Simulink.
+<pre> > ### Base model for the design in Simulink. </pre>
 >  ![Screenshot](Screenshots/PID_MainModel.PNG)
 
 > * ### PID Control Window
