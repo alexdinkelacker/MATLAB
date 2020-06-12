@@ -13,4 +13,4 @@
  > * To enter the view above just open up the PID Controller block and select "Tune"
  > * __Note__ This will take a short time to load, so be patient. 
  > * You can see the respective window below. 
-  ![Screenshot](Screenshots/PID_BlockControls.PNG)
+  ![Screenshot](Screenshots/PID_BlockControls.png)
