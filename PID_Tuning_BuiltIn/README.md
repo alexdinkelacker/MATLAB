@@ -2,5 +2,5 @@
 
 > * This is a very powerful tool for any mechanical or electrical system to use. 
 
-> * Below is the base model for the design 
+> * Below is the base model for the design in Simulink.
  ![Screenshot](Screenshots/PID_MainModel.PNG)
