@@ -5,7 +5,7 @@
 
 
 > * ### Base model for the design in Simulink.
- ![Screenshot](Screenshots/PID_MainModel.PNG)
+> * ![Screenshot](Screenshots/PID_MainModel.PNG)
 
 > * ### PID Control Window
 > * After you implement your design and run your script from the MATLAB workspace you will be able to go into your controller and tune your controller for the desired response of the system. 
